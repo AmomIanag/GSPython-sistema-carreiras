@@ -166,3 +166,14 @@ Demonstração com prints
 
 
 
+
+![1]([https://link-da-imagem.png](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/1d.png))
+
+
+
+![2]([https://link-da-imagem.png](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/2d.png))
+
+![3]([https://link-da-imagem.png](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/3d.png))
+
+
+

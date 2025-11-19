@@ -163,5 +163,6 @@ Conceitos de Programação Utilizados
 
 
 Demonstração com prints
-![sim](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/6713498e-6afa-475d-bc26-ed61241f536e.png)
+
+
 

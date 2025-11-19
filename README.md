@@ -161,3 +161,6 @@ Conceitos de Programação Utilizados
 
 • Sistema de pontuação simples
 
+
+Demonstração com prints
+

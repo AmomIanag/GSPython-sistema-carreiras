@@ -167,7 +167,8 @@ Demonstração com prints
 
 
 
-![1]([https://link-da-imagem.png](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/1d.png)
+![1]([https://link-da-imagem.png](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/1d.png?raw=true))
+
 
 
 

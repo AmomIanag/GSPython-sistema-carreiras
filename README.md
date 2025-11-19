@@ -169,5 +169,6 @@ Demonstração com prints
 
 ![1](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/1d.png?raw=true)
 
+![2]([https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/1d.png?raw=true](https://github.com/AmomIanag/GSPython-sistema-carreiras/blob/main/2d.png?raw=true))
 
 
